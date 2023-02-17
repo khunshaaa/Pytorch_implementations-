@@ -1,2 +1,2 @@
-# implementations_using_pytorch-
-Pytorch implementations of linear regression, logistic regression and CNN
+# Implementations using pytorch
+Pytorch implementations of Linear Regression, Logistic Regression, Feed Forward Neural Network and Convolutional Neural Network.
